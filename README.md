@@ -1,4 +1,4 @@
-# Subject
+## Subject
 
 ### Project instructions
 
@@ -50,3 +50,7 @@ You must create a communication program in the form of a client and a server.
 Bonus list:
 - The server acknowledges every message received by sending back a signal to the client.
 - Unicode characters support!
+
+## Heplful links: 
+- Thuggonaut's github repo: https://github.com/Thuggonaut/42IC_Ring02_Minitalk?tab=readme-ov-file
+- geeksforgeeks Bitwise Operators in C: https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/#video
